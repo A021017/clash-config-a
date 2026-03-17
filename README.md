@@ -1,5 +1,3 @@
-# clash-config-a
-Clash配置
 mixed-port: 10808
 allow-lan: false
 mode: rule
